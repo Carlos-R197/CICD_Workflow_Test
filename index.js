@@ -1,5 +1,5 @@
-function AddNumbers(a, b, c) {
+function addNumbers(a, b, c) {
     return a + b + c;
 }
 
-module.exports = { AddNumbers }
+module.exports = { addNumbers }
